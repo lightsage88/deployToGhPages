@@ -1,7 +1,7 @@
 {
   "name": "course-directory",
   "version": "0.1.0",
-  "homepage": "http://myname.github.io/myapp",
+  "homepage": "https://lightsage88.github.io/deployToGhPages/",
   "private": true,
   "dependencies": {
     "gh-pages": "^2.0.1",
